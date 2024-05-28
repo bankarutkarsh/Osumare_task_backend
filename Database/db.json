@@ -1,0 +1,59 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "description": "Purchase milk, eggs, bread, and vegetables."
+    },
+    {
+      "id": 2,
+      "title": "Read a book",
+      "description": "Finish reading 'To Kill a Mockingbird'."
+    },
+    {
+      "id": 3,
+      "title": "Complete assignment",
+      "description": "Work on the math assignment due next week."
+    },
+    {
+      "id": 4,
+      "title": "Exercise",
+      "description": "Go for a 30-minute run in the park."
+    },
+    {
+      "id": 5,
+      "title": "Call mom",
+      "description": "Check in with mom and see how she's doing."
+    },
+    {
+      "id": 6,
+      "title": "Clean the house",
+      "description": "Vacuum, dust, and mop the floors."
+    },
+    {
+      "id": 7,
+      "title": "Pay bills",
+      "description": "Pay the electricity and internet bills online."
+    },
+    {
+      "id": 8,
+      "title": "Plan vacation",
+      "description": "Research destinations and book flights for the summer vacation."
+    },
+    {
+      "id": 9,
+      "title": "Attend meeting",
+      "description": "Join the team meeting at 10 AM via Zoom."
+    },
+    {
+      "id": 10,
+      "title": "Cook dinner",
+      "description": "Prepare a healthy dinner with grilled chicken and salad."
+    },
+    {
+      "id": 11,
+      "title": "Workout",
+      "description": "Complete your daily scheduled workout"
+    }
+  ]
+}
