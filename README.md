@@ -49,7 +49,7 @@ BACKEND/
 - **Sample Request**:
 
     ```bash
-    curl -X GET http://localhost:5500/tasks
+    http://localhost:5500/tasks
     ```
 
 - **Sample Response**:
@@ -80,7 +80,7 @@ BACKEND/
 - **Sample Request**:
 
     ```bash
-    curl -X GET http://localhost:5500/task/1
+    http://localhost:5500/task/1
     ```
 
 - **Sample Response**:
@@ -113,7 +113,7 @@ BACKEND/
 - **Sample Request**:
 
     ```bash
-    curl -X POST http://localhost:5500/tasks -H "Content-Type: application/json" -d '{"title": "New Task", "description": "Description of the new task."}'
+    http://localhost:5500/tasks  "Content-Type: application/json"  '{"title": "New Task", "description": "Description of the new task."}'
     ```
 
 - **Sample Response**:
@@ -146,7 +146,7 @@ BACKEND/
 - **Sample Request**:
 
     ```bash
-    curl -X PUT http://localhost:5500/task/edit/1 -H "Content-Type: application/json" -d '{"title": "Updated Task", "description": "Updated description of the task."}'
+   http://localhost:5500/task/edit/1  "Content-Type: application/json" '{"title": "Updated Task", "description": "Updated description of the task."}'
     ```
 
 - **Sample Response**:
@@ -170,7 +170,7 @@ BACKEND/
 - **Sample Request**:
 
     ```bash
-    curl -X DELETE http://localhost:5500/task/delete/1
+    http://localhost:5500/task/delete/1
     ```
 
 - **Sample Response**:
